@@ -1,4 +1,5 @@
 # 🌱 ESP32 Soil Sensor Monitor for Polyhouse
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 This is a modular C++ firmware for an ESP32 Dev Module that reads soil sensor data (via Modbus RS485), displays it on an LCD, and uploads the data to a remote server over WiFi.
 
@@ -80,3 +81,8 @@ Make sure you have PlatformIO installed.
 platformio run
 platformio upload
 platformio device monitor
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE) © 2025 Yash Agrawal.
+You are not free to use, modify, and distribute this project with attribution.
